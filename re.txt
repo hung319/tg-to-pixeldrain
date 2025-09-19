@@ -1,0 +1,13 @@
+# Pyrogram core và các gói phụ thuộc
+pyrofork
+
+# Thư viện hiệu năng cao cho networking và mã hóa
+tgcrypto
+httpx
+aiofiles
+
+# Tăng tốc event loop
+uvloop
+
+# Đọc file cấu hình .env
+python-dotenv
